@@ -1,6 +1,7 @@
 #dirs
 /bin/
 
+#extension
 *.crt
 *.csr
 *.key
